@@ -1,0 +1,62 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.siuuu-header {
+    background-color: #000000;
+    color: white;
+    padding-left: 20px;
+}
+
+.siuuu-header h1 {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.logo {
+    width: 40px; /* Adjust size as needed */
+    height: auto;
+}
+
+.balance {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.sidebar-toggle {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 8px;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.sidebar-toggle h3 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.coming-soon {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-left: 10px;
+}
+
+.betting-section {
+    margin-top: 20px;
+}
+
+.bet-card {
+    margin-bottom: 20px;
+}
+
+.betslip-section {
+    margin-top: 40px;
+    margin-left: 10px;
+
+}
+
+.league-section {
+    display: block;
+}
